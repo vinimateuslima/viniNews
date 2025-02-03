@@ -1,59 +1,38 @@
-# ViniNews
+# Vini News
+Este projeto é uma página de notícias simples feito utilizando Angular para fins de aprendizado proposto pelo professor João Ferreira do Curso de Desenvolvimento Full Stack da Treina Recife.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
-## Development server
+## 🛠️ Construído com
 
-To start a local development server, run:
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-```bash
-ng serve
-```
+## ✒️ Autores
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+* **Vinicius Lima** - *Desenvolvedor* - [GitHub](https://github.com/vinimateuslima)
+* **João Ferreira** - *Professor* - [GitHub](https://github.com/joaoferreirape)
 
-## Code scaffolding
+## 📄 Licença
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Este projeto está sob a licença [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) - veja o arquivo LICENSE.md para detalhes.
 
-```bash
-ng generate component component-name
-```
+## Conecte-se comigo
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+[![Portfólio](https://img.shields.io/badge/-Portfólio-30A3DC?style=for-the-badge)](https://vinimateuslima.github.io/portfolio-vinicius-lima)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:viniciusmateus.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-lima-924807181/)
 
-```bash
-ng generate --help
-```
+## 🛠 Habilidades
 
-## Building
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 🔗 Vamos trabalhar juntos?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-lima-924807181/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/viniciuslimadev/)
