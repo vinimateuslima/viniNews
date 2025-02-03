@@ -1,0 +1,43 @@
+mat-toolbar {
+  background-color: #D9D9D9;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 40px;
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+}
+
+.menu .logo {
+  font-size: 2em;
+}
+
+.menu-links {
+  display: flex;
+  justify-content: space-around;
+  gap: 0px 40px;
+
+}
+
+button {
+  color: white!important;
+}
+
+.mat-mdc-menu-item {
+  background-color: var(--cor-primaria);
+}
+
+.menu-links a, button {
+  font-size: 1em;
+  text-decoration: none;
+  color: var(--cor-secundaria);
+
+}
+
+a:hover {
+  opacity: 0.9;
+}

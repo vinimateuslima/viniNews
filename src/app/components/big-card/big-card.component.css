@@ -1,0 +1,16 @@
+.card {
+  width: 680px;
+
+}
+
+.card-title {
+  font-size: 1.2em;
+}
+
+.card-image img{
+  width: 100%;
+}
+
+.card-body p{
+  font-size: 1.2em;
+}

@@ -1,0 +1,20 @@
+<mat-toolbar class="menu">
+  <span class="logo">VINI NEWS</span>
+
+  <div class="menu-links">
+    <a mat-button href="#noticias">Inicio</a>
+    <button mat-button [matMenuTriggerFor]="menu">Categorias</button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>Tecnologia</button>
+      <button mat-menu-item>Humor</button>
+      <button mat-menu-item>Política</button>
+      <button mat-menu-item>Ciência</button>
+      <button mat-menu-item>Filmes</button>
+    </mat-menu>
+
+    <a mat-button href="#"
+      >Mais acessadas</a
+    >
+    <a mat-button href="#news-letter">Contato</a>
+  </div>
+</mat-toolbar>
